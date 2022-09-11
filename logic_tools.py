@@ -78,5 +78,5 @@ class Table:
 
 if __name__ == '__main__':
     vars = ['A', 'B', 'C', 'D']
-    Table.generateTiming('', 100, False, vars)
+    Table.generateTiming('lab05_4vars', 100, False, vars)
     pass
